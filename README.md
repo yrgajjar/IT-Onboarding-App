@@ -38,6 +38,16 @@ Relese from Assign
 <img width="2236" height="1196" alt="image" src="https://github.com/user-attachments/assets/03ae3191-d813-4c1c-9ca7-d4c027b6b1c7" />
 Remove from Inventory
 <img width="2239" height="1198" alt="image" src="https://github.com/user-attachments/assets/a4681a56-8d5c-43d1-a7bc-f5a298d61b56" />
+Services Details
+<img width="2239" height="1193" alt="image" src="https://github.com/user-attachments/assets/66e5745e-47a4-4929-9e60-d19cc37893da" />
+Complaint Tracking System
+<img width="2239" height="1198" alt="image" src="https://github.com/user-attachments/assets/fd7428c1-44aa-4b25-b8f0-dd6f7c10f501" />
+Alert System
+<img width="2237" height="1197" alt="image" src="https://github.com/user-attachments/assets/f68bbbfd-1359-4a27-b902-2470f6454b0f" />
+Reminde to every user also saprate user
+<img width="2239" height="1190" alt="image" src="https://github.com/user-attachments/assets/b30f71d3-3262-481e-a209-80e147d441a3" />
+Technical Timeline
+<img width="2239" height="1193" alt="image" src="https://github.com/user-attachments/assets/f1848fd1-2356-4d67-a3ca-ba786a38fd3e" />
 
 
 
@@ -52,6 +62,9 @@ Employee Portal
 
 Update Profile
 <img width="2239" height="1195" alt="image" src="https://github.com/user-attachments/assets/9d15d907-647d-404e-b979-1bf0a2895490" />
+Technical Consol | Employee Portal 
+<img width="2239" height="1196" alt="image" src="https://github.com/user-attachments/assets/83d8e850-a2f7-4640-9a65-4ed55e67e6d5" />
+
 
 
 
