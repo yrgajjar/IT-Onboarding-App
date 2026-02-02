@@ -17,7 +17,7 @@ This contains everything you need to run your app locally.
 3. Run the app:
    `npm run dev`
 
-Preview:
+# **Preview: Admin Consol**
 <img width="2236" height="1194" alt="image" src="https://github.com/user-attachments/assets/6765981d-8c80-4be5-834a-3ee33cbcd2dc" />
 
 Admikn Deshboard
@@ -52,7 +52,7 @@ Technical Timeline
 
 
 
-Employee Portal 
+**# Preview: Employee Portal** 
 <img width="2239" height="1197" alt="image" src="https://github.com/user-attachments/assets/afbca16a-fdc2-4168-9424-38a7f2e5d6e0" />
 <img width="2235" height="1196" alt="image" src="https://github.com/user-attachments/assets/33b7a1d0-a601-456a-b781-8f9c4e1b60fc" />
 <img width="2239" height="1199" alt="image" src="https://github.com/user-attachments/assets/ef4f6ee3-a1c0-4b43-923d-61446911cb2b" />
