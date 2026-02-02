@@ -1,0 +1,7 @@
+{
+  "name": "IT Onboarding App",
+  "description": "A comprehensive IT Onboarding and Support system with role-based access for Admins and Employees, featuring asset management, complaint tracking, and automated notifications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

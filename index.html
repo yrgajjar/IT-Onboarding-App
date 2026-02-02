@@ -1,0 +1,93 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT Onboarding App</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              brand: {
+                primary: '#7635f8',
+                secondary: '#9483f1',
+                surface: '#F8F9FA',
+                border: '#E8EAED',
+              }
+            },
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+        /* Global Text Visibility Fix */
+        body { 
+          font-family: 'Inter', sans-serif; 
+          background-color: #F8F9FA;
+          color: #202124; /* Google Standard Dark Text */
+        }
+        
+        /* Force visibility on all form inputs */
+        input, select, textarea {
+          color: #202124 !important;
+          background-color: #FFFFFF !important;
+        }
+
+        /* Standardize placeholder color */
+        ::placeholder {
+          color: #5F6368 !important;
+          opacity: 1 !important;
+        }
+
+        /* Ensure labels are high contrast */
+        label {
+          color: #3C4043 !important;
+        }
+
+        /* Table text safety */
+        table {
+          color: #202124 !important;
+        }
+
+        /* Custom scrollbar */
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #dadce0; border-radius: 10px; }
+        ::-webkit-scrollbar-thumb:hover { background: #bdc1c6; }
+        
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+        .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+        /* Prevent accidental transparency */
+        .text-visible-force {
+          color: #202124 !important;
+          opacity: 1 !important;
+          visibility: visible !important;
+        }
+    </style>
+<script type="importmap">
+{
+  "imports": {
+    "react-dom/": "https://esm.sh/react-dom@^19.2.4/",
+    "react/": "https://esm.sh/react@^19.2.4/",
+    "react": "https://esm.sh/react@^19.2.4",
+    "recharts": "https://esm.sh/recharts@^3.7.0",
+    "react-router-dom": "https://esm.sh/react-router-dom@^7.13.0",
+    "lucide-react": "https://esm.sh/lucide-react@^0.563.0",
+    "jspdf": "https://esm.sh/jspdf@2.5.1",
+    "jspdf-autotable": "https://esm.sh/jspdf-autotable@3.8.2"
+  }
+}
+</script>
+</head>
+<body class="antialiased">
+    <div id="root"></div>
+</body>
+</html>
