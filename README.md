@@ -55,6 +55,7 @@ Technical Timeline
 # **Preview: Employee Portal** 
 <img width="2239" height="1197" alt="image" src="https://github.com/user-attachments/assets/afbca16a-fdc2-4168-9424-38a7f2e5d6e0" />
 <img width="2235" height="1196" alt="image" src="https://github.com/user-attachments/assets/33b7a1d0-a601-456a-b781-8f9c4e1b60fc" />
+<img width="2238" height="1197" alt="image" src="https://github.com/user-attachments/assets/e69ee1fb-f2cd-4d4c-8d5f-7190ead95198" />
 <img width="2239" height="1199" alt="image" src="https://github.com/user-attachments/assets/ef4f6ee3-a1c0-4b43-923d-61446911cb2b" />
 <img width="2239" height="1196" alt="image" src="https://github.com/user-attachments/assets/12d13cfe-e2a5-4e2a-8819-11bac94527de" />
 <img width="2239" height="1186" alt="image" src="https://github.com/user-attachments/assets/d31dfc61-524e-4c33-9aa7-af75b01279c9" />
